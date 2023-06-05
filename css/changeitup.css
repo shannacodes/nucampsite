@@ -1,0 +1,73 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Geologica";
+}
+
+h2 {
+    color: #356838;
+}
+
+header h2 {
+    color: #CEC8FF;
+}
+
+.site-footer {
+    background-image: linear-gradient(to left, #DBF7F4, #DBF7F4, #B0FFF7);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 50px;
+    background-image: linear-gradient(to right, #DBF7F4, #DBF7F4, #B0FFF7);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color:#356838;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #356838;
+}
+
+.btn-success, .btn-primary {
+    background-color: #356838;
+    border-color: #356838;
+}
+
+a, .btn-link {
+    color: #356838;
+}
+
+a:hover {
+    color: #000000;
+}
+
+.btn-link:hover {
+    color: #000000;
+}
+
+.card-header {
+    background-color: #DA8132;
+}
+
