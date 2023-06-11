@@ -1,3 +1,4 @@
+$color-teal: #17A2B8;
 $color-primary: #3046C5;
 $color-secondary: #5637dd;
 $color-pale: #CEC8FF;
@@ -69,3 +70,16 @@ header {
     z-index: 100; /* Ensure buttons are OVERLAYED */
 }
 
+#reserveModal {
+    .modal-header {
+        background-color: $color-teal;
+        color: #fff;
+    }
+}
+
+#loginModal {
+    .modal-header {
+        background-color: $color-mid;
+        color: #fff;
+    }
+}
